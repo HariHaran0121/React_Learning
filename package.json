@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is just react learning by Hari Haran",
+  "default": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HariHaran0121/React_Learning.git"
+  },
+  "keywords": [],
+  "author": "Hari Haran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HariHaran0121/React_Learning/issues"
+  },
+  "homepage": "https://github.com/HariHaran0121/React_Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
